@@ -1,6 +1,7 @@
 # SpikeSync
 
 **SpikeSync** is a GUI tool that aligns neural spike data with video recordings, providing features like audio sonification, real-time signal visualization, and CSV export for further analysis.
+![2025-05-02 20-48-41](https://github.com/user-attachments/assets/b28028bc-1397-46b4-9ca3-3e84fe7ed5e1)
 
 ## 1. Installation & Usage
 
@@ -67,14 +68,5 @@ python --version
    python app.py
    ```
 
-### Key Features:
-
-* **Upload Data**: Import timestamp and raw data files.
-* **Align Data**: Synchronize neural data with video.
-* **Playback & Visualization**: Preview the video and visualize neural signals in real-time.
-* **Export Data**: Save aligned data to CSV.
 
 For more information, refer to the full documentation or check the usage section within the GUI.
-
-```
-```

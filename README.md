@@ -67,6 +67,22 @@ python --version
    ```bash
    python app.py
    ```
+### Using SpikeSync
 
+1. Upload the timestamp .dat file (trodes format)
+2. Upload the raw data .dat file (trodes format)
+3. Upload video file (.mp4) --> Should be "same" length as timestamp/raw files to accomodate drift
+4. Input a start time / end time for the uploaded video (HH:MM:SS)
+5. Click 'Align and Export'
+
+6. (Optional) - Segment Info
+   - Provides various information related to the cut chunk of video
+     ![image](https://github.com/user-attachments/assets/98a34b31-6e8e-415d-861c-612df4981969)
+
+7. (Optional) - Save Aligned CSV
+   - Clicking this button provides the user with the data in the below format to further aid in analysis
+     ```
+     Time (clock rate) | Voltage (mV) | Frame | Second
+     ```
 
 For more information, refer to the full documentation or check the usage section within the GUI.

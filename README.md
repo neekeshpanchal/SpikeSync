@@ -76,9 +76,8 @@ python --version
 5. Click 'Align and Export'
 
 6. (Optional) - Segment Info
-![image](https://github.com/user-attachments/assets/98a34b31-6e8e-415d-861c-612df4981969)
    - Provides various information related to the cut chunk of video
-
+   - ![image](https://github.com/user-attachments/assets/98a34b31-6e8e-415d-861c-612df4981969)
 
 8. (Optional) - Save Aligned CSV
    - Clicking this button provides the user with the data in the below format to further aid in analysis

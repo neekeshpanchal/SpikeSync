@@ -1,4 +1,4 @@
-### SpikeSync
+# SpikeSync
 
 **SpikeSync** is a GUI tool that aligns neural spike data with video recordings, providing features like audio sonification, real-time signal visualization, and CSV export for further analysis.
 

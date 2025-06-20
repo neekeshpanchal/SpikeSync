@@ -65,7 +65,7 @@ python --version
 2. Launch the application:
 
    ```bash
-   python app.py
+   python SpikeSync.py
    ```
 ### Using SpikeSync
 

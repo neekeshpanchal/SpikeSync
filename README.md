@@ -85,4 +85,10 @@ python --version
      Time (clock rate) | Voltage (mV) | Frame | Second
      ```
 
+*NOTE
+Downgrade moviepy using below version in order to run moviepy.editor
+```
+pip install moviepy==1.0.3
+```
+
 For more information, refer to the full documentation or check the usage section within the GUI.
